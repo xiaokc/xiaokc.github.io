@@ -4,6 +4,7 @@ title: sudo apt-get update失败的解决方法总结
 published: true
 ---
 ***这里针对“Fail fetch ... error”***
+
 1.首先想到是软件源不对，导致update无法获取，先更新软件源列表
 
 `sudo cp /etc/apt/sources.list  /etc/apt/sources.list.backup`
