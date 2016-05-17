@@ -8,5 +8,3 @@ published: true
 
 
 Here is my [github](https://github.com/xiaokc) page.
-
-
